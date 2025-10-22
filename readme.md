@@ -1,9 +1,10 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b>
-      <a rel="nofollow noopener noreferrer" target="_blank" href="https://discordid.netlify.app/?id=754745736826191894">Aloy</a>
-    </b>.
+    Hello there! I'm 
+    <b>
+      <a rel="nofollow noopener noreferrer" target="_blank" href="https://discordid.netlify.app/?id=754745736826191894">Aloy</a>.
+    </b>
     <br>Commerce student, juggling code and a world of curiosities, based in India.<br>
   </samp>
 
