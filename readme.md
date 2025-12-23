@@ -13,7 +13,6 @@
     <img src="https://komarev.com/ghpvc/?username=aloysaha&label=Views&color=grey&style=plastic" alt="Aloy Saha" /> 
   </p>
   <p align="left"> 
-  <img src="
-https://www.python.org/static/favicon.ico" alt="Python" /> 
+  <img src="https://www.python.org/static/favicon.ico" alt="Python" /> 
 </p>
 </p>
