@@ -9,10 +9,10 @@
   </samp>
 
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
-  <p align="right"> 
-    <img src="https://komarev.com/ghpvc/?username=aloysaha&label=Views&color=grey&style=plastic" alt="Aloy Saha" /> 
-  </p>
-  <p align="left"> 
-  <img src="https://www.python.org/static/favicon.ico" alt="Python" /> 
+<p>
+  <img align="left" src="https://www.python.org/static/favicon.ico" alt="Python" width="30">
+  <img align="right" src="https://komarev.com/ghpvc/?username=aloysaha&label=Views&color=grey&style=plastic" alt="Aloy Saha">
 </p>
+
+<br clear="both">
 </p>
